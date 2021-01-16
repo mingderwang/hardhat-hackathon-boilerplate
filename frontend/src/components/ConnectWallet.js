@@ -22,7 +22,7 @@ export function ConnectWallet({ connectWallet, networkError, dismiss }) {
             type="button"
             onClick={connectWallet}
           >
-            Connect Wallet
+            Connect MetaMask Wallet
           </button>
         </div>
       </div>
